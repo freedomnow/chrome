@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: http://cobaltchromeforever.com/sitemap.xml
+Sitemap: http://cobaltchromeforever.com/video-sitemap.xml
