@@ -29,4 +29,32 @@
       </video:category>
     </video:video>
   </url>
+  <url>
+    <loc>
+      http://cobaltchromeforever.com/franquias-virtuais/
+    </loc>
+    <video:video>
+      <video:thumbnail_loc>
+        http://i.ytimg.com/vi/AbDfpa31T1Q/0.jpg
+      </video:thumbnail_loc>
+      <video:title>
+        Franquias Baratas - Franquias Famosas de sucesso
+      </video:title>
+      <video:description>
+        Aprenda sobre As franquias baratas que você pode investir para ter o seu próprio negócio.
+      </video:description>
+      <video:content_loc>
+        http://www.youtube.com/v/AbDfpa31T1Q?version=3&amp;f=videos&amp;app=youtube_gdata
+      </video:content_loc>
+      <video:player_loc allow_embed="yes">
+        http://www.youtube.com/watch?v=AbDfpa31T1Q&amp;feature=youtube_gdata_player
+      </video:player_loc>
+      <video:duration>
+        854
+      </video:duration>
+      <video:category>
+        Howto
+      </video:category>
+    </video:video>
+  </url>
 </urlset>
